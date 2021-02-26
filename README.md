@@ -3,9 +3,7 @@
 <!--
 **NinaHKivanani/NinaHKivanani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-### Hi there, I'm Camilo 👋
-
-<img src="https://raw.githubusercontent.com/jcvasquezc/jcvasquezc/master/banner.png" alt="banner that says Nina H-Kivanani">
+![nina](https://user-images.githubusercontent.com/34209695/109345003-cbc01c00-786f-11eb-8c0c-d6000bcde2e9.png)
 
 I originally came to NLP because I like using machine learning techniques for analyzing speech and vision (especially Multimodal Language Processing), and using different packages for the visualization of results, then I discovered the joys of programming.
 
