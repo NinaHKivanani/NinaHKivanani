@@ -8,8 +8,8 @@ I originally came to NLP because I like using machine learning techniques for an
 
 
 ## You can find me : 
-- 🔬 ** Personal web **: <a href="https://ninahkivanani.github.io/">ninahkivanani.github.io</a>
-- 📚 ** My research **: <a href="https://scholar.google.com/citations?user=H6JYohsAAAAJ&hl=en">Scholar</a> 
+- 🔬 **Personal web**: <a href="https://ninahkivanani.github.io/">ninahkivanani.github.io</a>
+- 📚 **My research**: <a href="https://scholar.google.com/citations?user=H6JYohsAAAAJ&hl=en">Scholar</a> 
 
 
 
